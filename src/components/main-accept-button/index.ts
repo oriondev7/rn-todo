@@ -1,0 +1,1 @@
+export { MainAcceptButton } from './MainAcceptButton';
